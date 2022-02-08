@@ -1,0 +1,5 @@
+com\collectapi\utils\TestUtils.class
+com\collectapi\utils\PropertyReader.class
+com\collectapi\constants\EndPoints.class
+com\collectapi\constants\Path.class
+com\collectapi\casesinfo\CasesSteps.class

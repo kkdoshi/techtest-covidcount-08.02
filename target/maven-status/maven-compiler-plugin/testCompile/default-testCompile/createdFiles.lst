@@ -1,0 +1,3 @@
+com\collectapi\cucumber\CucumberRunner.class
+com\collectapi\cucumber\steps\CovidCasesSteps.class
+com\collectapi\testbase\TestBase.class
